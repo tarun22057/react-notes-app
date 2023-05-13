@@ -1,2 +1,7 @@
 # react-notes-app
-Created with CodeSandbox
+### Concepts Learned 
+- useState
+- props
+- hooks
+- conditional rendering
+- used a bit of material Ui components
